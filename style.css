@@ -9,13 +9,13 @@ html {
 }
 
 #img {
-    width: 100px;
-    height: 200px;
+    width: 100%;
     border:5px solid white;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #div {
     width: 50%;
     margin-left: 25%;
-}
